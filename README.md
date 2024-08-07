@@ -1,4 +1,5 @@
 # 💫 About Me:
+Hello I,m A Mohan Vamsi Krishna
 🔭 I’m currently pursuing my B.Tech in the stream of Computer Science And Engineering<br>🌱 I’m currently learning Competitive Programming <br>
 
 
